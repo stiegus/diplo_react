@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open ejemplo.html",
-            "file": "c:\\GUS\\DIPLO_REACT\\ClasesMartes\\Mod1Uni3\\ejemplo.html"
+            "file": "c:\\GUS\\DIPLO_REACT\\ClasesMartes\\Mod1Uni3\\cv.html"
         }
     ]
 }
